@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\bin\Debug\net7.0\ProgramCode.exe
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\bin\Debug\net7.0\ProgramCode.deps.json
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\bin\Debug\net7.0\ProgramCode.runtimeconfig.json
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\bin\Debug\net7.0\ProgramCode.dll
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\bin\Debug\net7.0\ProgramCode.pdb
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.AssemblyInfo.cs
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.dll
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\refint\ProgramCode.dll
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.pdb
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ProgramCode.genruntimeconfig.cache
+C:\Users\Александр\Desktop\ControlWork\ProgramCode\obj\Debug\net7.0\ref\ProgramCode.dll
